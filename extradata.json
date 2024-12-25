@@ -1,8 +1,10 @@
 {
 	"info": { "version": "3.0.0-beta3" },
 	"id": "8e7fecc3-f335-493c-aa75-0b940b490de6",
-	"name": "Extra Data (EmmaKnijn)",
+	"name": "Test",
 	"features": [
+
+		{"id":"7b7eba58-9930-425d-915f-61be82ff9016","collectionId":"civmap:collection/user","line":[[[1443,-8958],[483,1091]]]},
 		{
 			"id": "de2f2f17-47ef-44b5-ab2f-64a58c224033",
 			"name": "Nidaros",
