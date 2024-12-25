@@ -1,0 +1,7 @@
+{"features":[
+{"id":"44c14ac3-e6a1-4866-8058-8499c6a6f2c7","collectionId":"civmap:collection/user","x":1621,"z":-6084,"name":"Missing rails"},
+{"id":"64b73f61-5678-4ed6-bae4-9e734bbf048c","collectionId":"civmap:collection/user","x":4132,"z":-2457,"name":"You can arrive here by onedest, but you cannot go to onedest from here"},
+{"id":"0c729413-4055-46a6-ad62-94ced8191365","collectionId":"civmap:collection/user","x":5387,"z":6604,"name":"Always goes south when going from Truidencia"}
+
+
+],"presentations":[],"enabled_presentation":true,"id":"8e7fecc3-f335-493c-aa75-0b940b490de6","info":{"version":"3.0.0-beta3"},"name":"OneDest issues","source":"extradata.json"}
