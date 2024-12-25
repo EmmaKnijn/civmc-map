@@ -141,4 +141,10 @@
 {"id":"SOUTHSEA-a443-4fec-812b-57f81b071a58","line":[[[5275,4459],[5279,4453],[5287,4448],[5362,4449],[5373,4456],[5376,4596],[5377,4636],[5332,4717],[5329,4783],[5324,4790],[5268,4790]]],"color":"#e83b3b"},
 {"id":"KARYDIA-2bd1-48ad-baa3-1aa0a0b5667e","line":[[[-5203,-1068],[-5214,-1068],[-5214,-1074],[-5214,-1068],[-5221,-1068],[-7801,-1068],[-7801,-995],[-7782,-995]]],"color":"#41EADF"},
 {"id":"06e2028e-cf50-48f9-a037-ffbfcc1adccd","line":[[[-5215,-1068],[-4904,-1068],[-4903,1],[-3994,2],[-3994,65]]],"color":"#FFFFFF"},
-{"id":"ICENIA-fa61-499f-8a94-4a46bbf2d3e3","line":[[[-4904,-1068],[-4904,-2942],[-4171,-3673],[-4171,-3768],[-3896,-4043],[-3877,-4043],[-3877,-4322],[-3773,-4323]]],"color":"#FFFFFF"}],"presentations":[],"enabled_presentation":true,"id":"8e7fecc3-f335-493c-aa75-0b940b490de6","info":{"version":"3.0.0-beta3"},"name":"OneDest","source":"extradata.json"}
+{"id":"ICENIA-fa61-499f-8a94-4a46bbf2d3e3","line":[[[-4904,-1068],[-4904,-2942],[-4171,-3673],[-4171,-3768],[-3896,-4043],[-3877,-4043],[-3877,-4322],[-3773,-4323]]],"color":"#FFFFFF"},
+  
+{"id":"44c14ac3-e6a1-4866-8058-8499c6a6f2c7","collectionId":"civmap:collection/user","x":1621,"z":-6084,"name":"Missing rails"},
+{"id":"64b73f61-5678-4ed6-bae4-9e734bbf048c","collectionId":"civmap:collection/user","x":4132,"z":-2457,"name":"You can arrive here by onedest, but you cannot go to onedest from here"},
+{"id":"0c729413-4055-46a6-ad62-94ced8191365","collectionId":"civmap:collection/user","x":5387,"z":6604,"name":"Always goes south when going from Truidencia"}
+
+],"presentations":[],"enabled_presentation":true,"id":"8e7fecc3-f335-493c-aa75-0b940b490de6","info":{"version":"3.0.0-beta3"},"name":"OneDest","source":"extradata.json"}
