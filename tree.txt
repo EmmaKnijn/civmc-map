@@ -41,7 +41,6 @@
     MtA (3052,15,2211)
     Medi <#e83b3b>
         Qbarra (7050,-58,715) #moved to medi tag
-        CDM (5094,73,3138)
             MehriCDMPortal (4817,64,2668)
         Danzilona (5275,66,4459)
             Sophia (4784,18,4527)
